@@ -1,5 +1,10 @@
 package com.techpalle;
+
 public class A
 {
-  int s=25000;
+  int s;
+  public A(int s) 
+  {
+	 this.s=s; 
+  }
 }
